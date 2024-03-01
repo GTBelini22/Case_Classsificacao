@@ -1,4 +1,4 @@
-# Repositório para a prever a saida de usuários de um Streaming
+# Repositório para prever a saida de usuários de um Streaming
 
 <div style= 'display: inline_block'><br/>
     <img alt='Python' src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54'>
@@ -23,7 +23,7 @@ Repositório usado para armazenar o Desafio de  **Classificação - machine lear
 - RandomForestClassifier
 - GridSearch
 
-![Dashboard BI](https://github.com/GTBelini22/prj_analise_dados_Wallmart/blob/main/assets/Gr%C3%A1fico%20wallmart.png)
+![Dashboard BI](https://github.com/GTBelini22/prj_Classificacao_Churn_clientes/blob/main/assets/Matriz%20de%20confus%C3%A3o.png)
 
 # Tecnologias utilizadas / Bibliotecas
 - Pandas
